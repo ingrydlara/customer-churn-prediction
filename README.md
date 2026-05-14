@@ -39,5 +39,9 @@ customer-churn-prediction/
 - Model: Logistic Regression
 - Accuracy: 0.81
 
+  ## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
 ## Author
 Ingryd Lara
