@@ -36,7 +36,8 @@ customer-churn-prediction/
 6. Model Saving
 
 ## Results
-Initial exploratory analysis completed and baseline model development in progress.
+- Model: Logistic Regression
+- Accuracy: 0.81
 
 ## Author
 Ingryd Lara
