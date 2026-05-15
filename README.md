@@ -20,7 +20,6 @@ The project uses the Telco Customer Churn dataset from Kaggle.
 ## Project Structure
 customer-churn-prediction/
 ├── data/
-- data/
 ├── notebooks/
 ├── models/
 ├── images/
